@@ -58,3 +58,5 @@ Identifies Cessna 172S, 172R, and 170B as the safest investment options based on
 - Substantial damage is the most common outcome, suggesting that incidents are often repairable, which has implications for cost and downtime.
 
 - The top 10 riskiest manufacturers were identified, giving stakeholders clear guidance on which aircraft types to avoid or monitor closely.
+
+  link to tableu dashboard https://public.tableau.com/app/profile/jeff.kandie/viz/AircraftInvestmentRiskAnalysis/Dashboard1
